@@ -58,5 +58,5 @@
 ---------------------
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavan191001&show_icons=true&theme=radical" alt="pavan191001" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan191001&layout=compact" alt="pavan191001" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan191001&layout=compact" alt="pavan191001" /> 
 </p>
