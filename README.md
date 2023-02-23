@@ -20,7 +20,10 @@
   <a href="https://www.linkedin.com/in/pavan-teja-kakarla-a7b524194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-teja-kakarla-a7b524194" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/seshasaipavante1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56591763/201489937-65206f7c-75c5-412b-aa76-b651327516f5.png" alt="seshasaipavante1" height="50" width="50" /></a>
   <a href="https://auth.geeksforgeeks.org/user/seshasaipavanteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="seshasaipavanteja" height="30" width="40" /></a>
+  <a href="mailto:seshasaipavanteja.k19@iiits.in" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="pavantejakakarla" height="50" width="50" /></a>
+  <a href="https://twitter.com/PAVANTEJAKVSS" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/twitter.png" alt="pavantejakakarla" height="50" width="50" /></a>
   <a href="https://www.instagram.com/pavantejakakarla/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56591763/201488673-dd4dcaf6-3083-4bbc-9173-35c366076269.png" alt="pavantejakakarla" height="40" width="40" /></a>
+
 </p>
 
 <h3 align="left">🛠 Tech Stack:</h3>
